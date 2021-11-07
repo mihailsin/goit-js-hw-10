@@ -6,7 +6,7 @@
   "homepage": "https://github.com/mihailsin/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/index.html --open",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
